@@ -22,6 +22,14 @@ CoinStack
 - [NodeJS](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  
+<br/>
 
+Installation and setup instructions
+====================================================
 
+```
+$ git clone https://github.com/isaack-mungui/visualization-dashboard.git
+$ cd visualization-dashboard/viz-project
+$ npm run start
+```
