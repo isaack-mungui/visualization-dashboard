@@ -31,6 +31,7 @@ Installation and setup instructions
 ```
 $ git clone https://github.com/isaack-mungui/visualization-dashboard.git
 $ cd visualization-dashboard/viz-project
+$ npm install
 $ npm run start
 ```
 
