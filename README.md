@@ -50,3 +50,9 @@ Author
 ===================================================
 
 - [Isaack Mungui](https://github.com/isaack-mungui)
+
+<br/>
+
+# License
+
+Find license information [here](LICENSE)
