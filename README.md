@@ -33,3 +33,13 @@ $ git clone https://github.com/isaack-mungui/visualization-dashboard.git
 $ cd visualization-dashboard/viz-project
 $ npm run start
 ```
+
+<br/>
+
+Technologies Used
+====================================================
+
+- [Node Package Manager](https://docs.npmjs.com/)
+- [NodeJS](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
