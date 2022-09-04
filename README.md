@@ -43,3 +43,10 @@ Technologies Used
 - [NodeJS](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<br/>
+
+Author
+===================================================
+
+- [Isaack Mungui](https://github.com/isaack-mungui)
